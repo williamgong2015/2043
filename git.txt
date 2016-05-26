@@ -1,3 +1,0 @@
-I am learning Git!
-now this is second line...
-Let's do something coooool~
