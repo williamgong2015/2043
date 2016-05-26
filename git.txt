@@ -1,1 +1,2 @@
-I am learning GIT!
+I am learning Git!
+now this is second line...
