@@ -1,3 +1,6 @@
 i hope that time this works.
-ok, let's merge.
 it actually works!
+<<<<<<< Updated upstream
+ok, let's merge.
+=======
+>>>>>>> Stashed changes
